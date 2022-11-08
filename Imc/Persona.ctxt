@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Persona
+comment1.params=
+comment1.target=Persona()
+comment10.params=setIndice
+comment10.target=void\ masa(int)
+comment11.params=
+comment11.target=int\ getIndice()
+comment12.params=indice
+comment12.target=void\ setIndice(int)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=nombre
+comment3.target=void\ setNombre(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getApellido()
+comment5.params=apellido
+comment5.target=void\ setApellido(java.lang.String)
+comment6.params=
+comment6.target=int\ getEstatura()
+comment7.params=estatura
+comment7.target=void\ setEstatura(int)
+comment8.params=
+comment8.target=int\ getPeso()
+comment9.params=peso
+comment9.target=void\ setPeso(int)
+numComments=13

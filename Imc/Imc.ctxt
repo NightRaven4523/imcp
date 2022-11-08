@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Imc
+comment1.params=tam
+comment1.target=Imc(int)
+comment2.params=pos
+comment2.target=void\ agregarPersona(int)
+comment3.params=
+comment3.target=void\ llenarDatos()
+comment4.params=pos
+comment4.target=void\ verPersona(int)
+numComments=5
